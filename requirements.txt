@@ -1,0 +1,6 @@
+PyQt5==5.15.7
+PyQtWebEngine==5.15.7
+dronekit==2.9.1
+folium==0.14.0
+# İsteğe bağlı olarak diğer kütüphaneler eklenebilir
+# pyserial # Seri port bağlantısı kullanacaksanız gerekebilir
