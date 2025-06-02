@@ -1,5 +1,3 @@
-# vtol_gcs_full.py (Ana GCS kodu)
-
 import sys
 import time
 import threading
